@@ -5,9 +5,10 @@ members = [
     "fhirbolt-codegen",
     "fhirbolt-model",
     "fhirbolt-element",
+    "fhirbolt-path",
     "fhirbolt-serde",
     "fhirbolt-shared",
     "tests",
     "benches",
     "examples/*"
-]
+, "fhirbolt-path"]
